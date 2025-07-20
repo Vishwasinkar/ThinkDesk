@@ -1,4 +1,4 @@
-📚 #ThinkDesk – Classroom Collaboration Platform
+📚 ThinkDesk – Classroom Collaboration Platform
 ThinkDesk is a full-stack web application designed to provide a virtual classroom environment for students and teachers. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), the platform allows users to create and join study groups, share educational resources, and collaborate effectively in a secure and user-friendly digital space.
 
 📌 Features
